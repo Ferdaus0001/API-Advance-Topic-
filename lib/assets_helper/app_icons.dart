@@ -1,0 +1,69 @@
+class AppIcons {
+  /*assets route*/
+  static const String iconsRoute = 'assets/icons';
+  /*all assets here*/
+  static const String logo = '$iconsRoute/Ellucianlogo.svg';
+  static const String email = '$iconsRoute/email.svg';
+  static const String notificatosn = '$iconsRoute/notificatons.svg';
+  static const String homelogo = '$iconsRoute/home-2.svg';
+  static const String array = '$iconsRoute/arry.svg';
+  static const String backarry = '$iconsRoute/backArray.svg';
+  static const String note = '$iconsRoute/note.svg';
+  static const String righticon = '$iconsRoute/righticon.svg';
+  static const String clint_icon = '$iconsRoute/clint_icon.svg';
+  static const String staff_icon = '$iconsRoute/staff_icon.svg';
+  static const String close = '$iconsRoute/closeSvg.svg';
+  static const String profileArray = '$iconsRoute/profileArray.svg';
+  static const String job = '$iconsRoute/jobIcon.svg';
+  static const String appleArray = '$iconsRoute/appleArray.svg';
+  static const String settingSvg = '$iconsRoute/appleArray.svg';
+  static const String eye = '$iconsRoute/eye.svg';
+  static const String home = '$iconsRoute/home.svg';
+  static const String eye_lock = '$iconsRoute/eye_lock.svg';
+  static const String lock = '$iconsRoute/lock.svg';
+  static const String graryImage = '$iconsRoute/grarayImage.svg';
+  static const String back_icon = '$iconsRoute/back_icon.svg';
+  static const String edit = '$iconsRoute/edit.svg';
+  static const String profile = '$iconsRoute/profile.svg';
+  static const String bottom_arrow = '$iconsRoute/bottom_arrow.svg';
+  static const String message = '$iconsRoute/message.svg';
+  static const String search_icon = '$iconsRoute/search_icon.svg';
+  static const String profile_img = '$iconsRoute/profile_img.svg';
+  static const String send = '$iconsRoute/send.svg';
+  static const String gallery = '$iconsRoute/gallery.svg';
+  static const String three_dot = '$iconsRoute/three_dot.svg';
+  static const String calendar = '$iconsRoute/calendar.svg';
+  static const String location = '$iconsRoute/location.svg';
+  static const String person_blue = '$iconsRoute/person_blue.svg';
+  static const String setting = '$iconsRoute/setting.svg';
+  static const String sms = '$iconsRoute/sms.svg';
+  static const String perosn = '$iconsRoute/perosn.svg';
+  static const String locationIcon = '$iconsRoute/locitionSvg.svg';
+  static const String jobClander = '$iconsRoute/jobClanderSvg.svg';
+  static const String tagSvg = '$iconsRoute/tagSvg.svg';
+  static const String closeButtonSvg = '$iconsRoute/closeButtonSvg.svg';
+  static const String houseSvg = '$iconsRoute/houseSvg.png';
+  static const String arrowDown = '$iconsRoute/arrowDown.svg';
+  static const String galaryAddSvg = '$iconsRoute/GalleryAdd.svg';
+  static const String arrayBackButton = '$iconsRoute/backbutton.svg';
+  static const String drawerIcon = '$iconsRoute/drawerIcon.svg';
+  static const String notificatosnButton = '$iconsRoute/notificatonsSvg.svg';
+  static const String start = '$iconsRoute/StarButton.svg';
+  static const String activySvg = '$iconsRoute/activityIconSvg.svg';
+  static const String locationRed = '$iconsRoute/locationRedSvg.svg';
+  static const String speedIcon = '$iconsRoute/specedSvg.svg';
+  static const String swipeButotn = '$iconsRoute/swipeButton.svg';
+  static const String blackProfile = '$iconsRoute/blackProfileSvg.svg';
+  static const String blackLocitaton = '$iconsRoute/blackLocationSvg.svg';
+  static const String callIconSvg = '$iconsRoute/callIconSvg.svg';
+  static const String ticiktIcon = '$iconsRoute/ticketSvgIcon.svg';
+  static const String arrayBackButtonBlack = '$iconsRoute/arrayButtons.svg';
+  static const String houseLogo = '$iconsRoute/houseLogos.svg';
+  static const String gender = '$iconsRoute/Gender.svg';
+  static const String buttonContiner = '$iconsRoute/ButtonContainer.svg';
+  static const String CloseIcon = '$iconsRoute/closeCircle.png';
+  static const String LocatosnContiner = '$iconsRoute/LocationsCotiner.png';
+  static const String hardIcon = '$iconsRoute/heart.svg';
+
+
+}
