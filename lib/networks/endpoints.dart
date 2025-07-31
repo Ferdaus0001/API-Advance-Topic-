@@ -30,7 +30,7 @@ final class Endpoints {
   //Authentication
   static String userSignUp() => "/users/register";
    static String EmailOtp() => "/users/verify-email";
-  // static String engLogin() => "/api/v1/auth/login-engineer";
+  static String userLogin() => "/users/login";
   // static String userLogout() => "/api/v1/auth/logout";
 
   // //price analysis

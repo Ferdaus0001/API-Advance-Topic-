@@ -5,6 +5,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:api_test_porject/common_widgets/custom_textfeild.dart';
 import 'package:get/get.dart';
 
+import '../../../sing_in/presentation/sing_in_screen.dart';
+
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({super.key});
 
@@ -180,6 +182,28 @@ class _SignUpScreenState extends State<SignUpScreen> {
                       style: TextStyle(fontSize: 16.sp, color: Colors.white),
                     ),
                   ),
+                ),
+
+
+                SizedBox(height: 50.h),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text(
+                      'Already have an account?',
+                      style: TextStyle(fontSize: 16.sp, color: Colors.black54),
+                    ),
+                    SizedBox(width: 5.w),
+                    GestureDetector(
+                      onTap: () {
+                        Get.to(SignInScreen()); // Navigate to login screen
+                      },
+                      child: Text(
+                        'Login',
+                        style: TextStyle(fontSize: 16.sp, color: Colors.blueAccent, fontWeight: FontWeight.bold),
+                      ),
+                    ),
+                  ],
                 ),
               ],
             ),
